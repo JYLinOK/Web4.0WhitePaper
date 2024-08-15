@@ -4,7 +4,7 @@
 
 
 
-![alt text](威乐标志.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/tree/main/imags/威乐标志.drawio.png)
 
 作者：林进威© 郑晨曦©
 版权所有，未经授权不得以任何形式传播、复制或者使用本计划书中左右内容。注意：本项目所有文字与图表都非AI生成。2024年7月23日
