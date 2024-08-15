@@ -3,8 +3,7 @@
 # Web4.0 白皮书 + 创业计划
 
 
-
-![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/raw/main/imags/威乐标志.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/%E5%A8%81%E4%B9%90%E6%A0%87%E5%BF%97.drawio.png)
 
 作者：林进威© 郑晨曦©
 版权所有，未经授权不得以任何形式传播、复制或者使用本计划书中左右内容。注意：本项目所有文字与图表都非AI生成。2024年7月23日
@@ -68,7 +67,7 @@
 
 但是由于目前资本主义的主导以及国内国民素质的有待提高到下一境界，因此在实现这一阶段的最终目标上，本项目将会创新性地提出各种新颖的实现思维以及实践方法。在本项目获得有效而持续的支持下，本项目将会以最小的成本，搅动以及激活国内经济这一大摊难动之水。
 
-![alt text](P1-三种招聘模式.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P1-%E4%B8%89%E7%A7%8D%E6%8B%9B%E8%81%98%E6%A8%A1%E5%BC%8F.drawio.png)
 
 ---
 
@@ -118,7 +117,7 @@
 
 团队核心成员组织机构图：
 
-![alt text](P2-1-核心成员组成.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P2-1-%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98%E7%BB%84%E6%88%90.drawio.png)
 
 **背后终级决策人：FDM**：林进威
 特长：发明创新，高新技术设计，运筹规划，理念与技术创新，对技术以及市场发展的敏锐观察与直觉。
@@ -159,13 +158,13 @@
 
 整体的团队的责任以及发展追求归纳如下：
 
-![alt text](P3-团队责任.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P3-%E5%9B%A2%E9%98%9F%E8%B4%A3%E4%BB%BB.drawio.png)
 
 使用6年时间，实现世界知名企业。
 
 ### 团队精神
 
-![alt text](P4-团队精神.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P4-%E5%9B%A2%E9%98%9F%E7%B2%BE%E7%A5%9E.drawio.png)
 
 总结：
 
@@ -192,7 +191,7 @@
 
 本项目是一个基于SpringBoot框架的分布式+去中心化+多服务器集群部署的一个大型商业应用。本项目设计基于Web4.0+多功能前端UI+强有力分布式部署的后端设计。
 
-![alt text](P5-功能概述设计.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P5-%E5%8A%9F%E8%83%BD%E6%A6%82%E8%BF%B0%E8%AE%BE%E8%AE%A1.drawio.png)
 
 本项目在具有以下特点：
 
@@ -211,13 +210,13 @@
 本部分介绍本项目产品的各个主要功能以及实现本项目的相关技术栈。
 
 初级版本实现技术栈：
-![alt text](P7-项目总体设计框架.drawio-1.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P7-%E9%A1%B9%E7%9B%AE%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1%E6%A1%86%E6%9E%B6.drawio.png)
 
 初级版本产品前端-功能实现技术栈：
-![alt text](P8-项目主要功能以及具体实现技术-前端.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P8-%E9%A1%B9%E7%9B%AE%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF-%E5%89%8D%E7%AB%AF.drawio.png)
 
 初级版本产品后端-功能实现技术栈：
-![alt text](P8-项目主要功能以及具体实现技术-后端.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P8-%E9%A1%B9%E7%9B%AE%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF-%E5%90%8E%E7%AB%AF.drawio.png)
 
 ### 核心功能与实现
 
@@ -274,7 +273,7 @@
 下图展示的是本项目的核心功能设计以及对应的技术栈支撑。
 所有技术可以在本项目团队内自己完成以及实现。实现标准按SOTA标准进行。
 
-![alt text](P9-项目主要-核心竞争功能以及具体实现技术.drawio.png)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P9-%E9%A1%B9%E7%9B%AE%E4%B8%BB%E8%A6%81-%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9F%E8%83%BD%E4%BB%A5%E5%8F%8A%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF.drawio.png)
 
 ### 项目 $\Rightarrow$ 优点与特色
 
@@ -331,7 +330,7 @@
 
 总结图示：
 
-![alt text](<P10- 本项目超越竞品的特点.drawio.png>)
+![alt text](https://github.com/JYLinOK/Web4.0WhitePaper/blob/main/imags/P10-%20%E6%9C%AC%E9%A1%B9%E7%9B%AE%E8%B6%85%E8%B6%8A%E7%AB%9E%E5%93%81%E7%9A%84%E7%89%B9%E7%82%B9.drawio.png)
 
 ---
 
